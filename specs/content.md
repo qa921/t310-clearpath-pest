@@ -1,9 +1,8 @@
 # Market and content requirements
 
-Proposed content requirements for a synthetic contributor exercise. These are requirements, not evidence of an operating business, customers, service history, licenses, prices, guarantees, or completed work.
+This synthetic contributor fixture uses `approved-content-inventory.md` as its authoritative business-content source. These records are fictional test data, not evidence of a real business, customers, service history, licences, prices, guarantees, or completed work.
 
 - Primary market: Austin
-- Adjacent areas, in order: Round Rock, Pflugerville, Cedar Park
-- Required articles: What to expect during a termite inspection; Closing rodent entry points
-- Required support pages: About, Contact, Privacy, 404, robots.txt, sitemap.xml, favicon.svg
-- Use shared data modules, reusable components, dynamic detail routes, and consistent internal links.
+- Confirmed neighbouring service areas and required support content are defined in `approved-content-inventory.md`.
+- Preserve dynamic, data-driven detail routes and consistent internal links.
+- Reconcile stale legacy wording only through `legacy-site-notes.md`; never promote stale facts into visitor copy.
