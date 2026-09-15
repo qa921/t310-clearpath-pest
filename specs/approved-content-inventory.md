@@ -48,7 +48,7 @@ This synthetic fixture is the authoritative business-content source for ClearPat
 
 All ten services are confirmed for every listed service area. Every area route should link to each service route; every service route should provide an area selector or complete area list and link to /contact/.
 
-## Approved article briefs (10 total; publish at least the first 8)
+## Approved article briefs (12 total; publish at least 8)
 | Title | slug | approved angle | service relationship |
 | --- | --- | --- | --- |
 | What to expect during a termite inspection | termite-inspection-expectations | explain preparation, visual checks, findings discussion and next steps without outcome claims | termite-inspections |
